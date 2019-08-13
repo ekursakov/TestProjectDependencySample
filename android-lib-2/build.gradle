@@ -9,5 +9,5 @@ android {
 }
 
 dependencies {
-    testImplementation project(":common-test")
+    implementation project(":java-lib")
 }

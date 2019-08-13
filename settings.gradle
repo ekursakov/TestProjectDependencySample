@@ -1,1 +1,1 @@
-include ':lib',':android-lib', ':common-test'
+include ':java-lib',':android-lib', ':android-lib-2', ':common-test'
